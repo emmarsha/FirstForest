@@ -1,0 +1,4777 @@
+fileFormatVersion: 2
+guid: 5a8dee7969ed55b4ebba98ad1af11665
+timeCreated: 1501565975
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: favoritePokemonTileset_0
+    21300002: favoritePokemonTileset_1
+    21300004: favoritePokemonTileset_2
+    21300006: favoritePokemonTileset_3
+    21300008: favoritePokemonTileset_4
+    21300010: favoritePokemonTileset_5
+    21300012: favoritePokemonTileset_6
+    21300014: favoritePokemonTileset_7
+    21300016: favoritePokemonTileset_8
+    21300018: favoritePokemonTileset_9
+    21300020: favoritePokemonTileset_10
+    21300022: favoritePokemonTileset_11
+    21300024: favoritePokemonTileset_12
+    21300026: favoritePokemonTileset_13
+    21300028: favoritePokemonTileset_14
+    21300030: favoritePokemonTileset_15
+    21300032: favoritePokemonTileset_16
+    21300034: favoritePokemonTileset_17
+    21300036: favoritePokemonTileset_18
+    21300038: favoritePokemonTileset_19
+    21300040: favoritePokemonTileset_20
+    21300042: favoritePokemonTileset_21
+    21300044: favoritePokemonTileset_22
+    21300046: favoritePokemonTileset_23
+    21300048: favoritePokemonTileset_24
+    21300050: favoritePokemonTileset_25
+    21300052: favoritePokemonTileset_26
+    21300054: favoritePokemonTileset_27
+    21300056: favoritePokemonTileset_28
+    21300058: favoritePokemonTileset_29
+    21300060: favoritePokemonTileset_30
+    21300062: favoritePokemonTileset_31
+    21300064: favoritePokemonTileset_32
+    21300066: favoritePokemonTileset_33
+    21300068: favoritePokemonTileset_34
+    21300070: favoritePokemonTileset_35
+    21300072: favoritePokemonTileset_36
+    21300074: favoritePokemonTileset_37
+    21300076: favoritePokemonTileset_38
+    21300078: favoritePokemonTileset_39
+    21300080: favoritePokemonTileset_40
+    21300082: favoritePokemonTileset_41
+    21300084: favoritePokemonTileset_42
+    21300086: favoritePokemonTileset_43
+    21300088: favoritePokemonTileset_44
+    21300090: favoritePokemonTileset_45
+    21300092: favoritePokemonTileset_46
+    21300094: favoritePokemonTileset_47
+    21300096: favoritePokemonTileset_48
+    21300098: favoritePokemonTileset_49
+    21300100: favoritePokemonTileset_50
+    21300102: favoritePokemonTileset_51
+    21300104: favoritePokemonTileset_52
+    21300106: favoritePokemonTileset_53
+    21300108: favoritePokemonTileset_54
+    21300110: favoritePokemonTileset_55
+    21300112: favoritePokemonTileset_56
+    21300114: favoritePokemonTileset_57
+    21300116: favoritePokemonTileset_58
+    21300118: favoritePokemonTileset_59
+    21300120: favoritePokemonTileset_60
+    21300122: favoritePokemonTileset_61
+    21300124: favoritePokemonTileset_62
+    21300126: favoritePokemonTileset_63
+    21300128: favoritePokemonTileset_64
+    21300130: favoritePokemonTileset_65
+    21300132: favoritePokemonTileset_66
+    21300134: favoritePokemonTileset_67
+    21300136: favoritePokemonTileset_68
+    21300138: favoritePokemonTileset_69
+    21300140: favoritePokemonTileset_70
+    21300142: favoritePokemonTileset_71
+    21300144: favoritePokemonTileset_72
+    21300146: favoritePokemonTileset_73
+    21300148: favoritePokemonTileset_74
+    21300150: favoritePokemonTileset_75
+    21300152: favoritePokemonTileset_76
+    21300154: favoritePokemonTileset_77
+    21300156: favoritePokemonTileset_78
+    21300158: favoritePokemonTileset_79
+    21300160: favoritePokemonTileset_80
+    21300162: favoritePokemonTileset_81
+    21300164: favoritePokemonTileset_82
+    21300166: favoritePokemonTileset_83
+    21300168: favoritePokemonTileset_84
+    21300170: favoritePokemonTileset_85
+    21300172: favoritePokemonTileset_86
+    21300174: favoritePokemonTileset_87
+    21300176: favoritePokemonTileset_88
+    21300178: favoritePokemonTileset_89
+    21300180: favoritePokemonTileset_90
+    21300182: favoritePokemonTileset_91
+    21300184: favoritePokemonTileset_92
+    21300186: favoritePokemonTileset_93
+    21300188: favoritePokemonTileset_94
+    21300190: favoritePokemonTileset_95
+    21300192: favoritePokemonTileset_96
+    21300194: favoritePokemonTileset_97
+    21300196: favoritePokemonTileset_98
+    21300198: favoritePokemonTileset_99
+    21300200: favoritePokemonTileset_100
+    21300202: favoritePokemonTileset_101
+    21300204: favoritePokemonTileset_102
+    21300206: favoritePokemonTileset_103
+    21300208: favoritePokemonTileset_104
+    21300210: favoritePokemonTileset_105
+    21300212: favoritePokemonTileset_106
+    21300214: favoritePokemonTileset_107
+    21300216: favoritePokemonTileset_108
+    21300218: favoritePokemonTileset_109
+    21300220: favoritePokemonTileset_110
+    21300222: favoritePokemonTileset_111
+    21300224: favoritePokemonTileset_112
+    21300226: favoritePokemonTileset_113
+    21300228: favoritePokemonTileset_114
+    21300230: favoritePokemonTileset_115
+    21300232: favoritePokemonTileset_116
+    21300234: favoritePokemonTileset_117
+    21300236: favoritePokemonTileset_118
+    21300238: favoritePokemonTileset_119
+    21300240: favoritePokemonTileset_120
+    21300242: favoritePokemonTileset_121
+    21300244: favoritePokemonTileset_122
+    21300246: favoritePokemonTileset_123
+    21300248: favoritePokemonTileset_124
+    21300250: favoritePokemonTileset_125
+    21300252: favoritePokemonTileset_126
+    21300254: favoritePokemonTileset_127
+    21300256: favoritePokemonTileset_128
+    21300258: favoritePokemonTileset_129
+    21300260: favoritePokemonTileset_130
+    21300262: favoritePokemonTileset_131
+    21300264: favoritePokemonTileset_132
+    21300266: favoritePokemonTileset_133
+    21300268: favoritePokemonTileset_134
+    21300270: favoritePokemonTileset_135
+    21300272: favoritePokemonTileset_136
+    21300274: favoritePokemonTileset_137
+    21300276: favoritePokemonTileset_138
+    21300278: favoritePokemonTileset_139
+    21300280: favoritePokemonTileset_140
+    21300282: favoritePokemonTileset_141
+    21300284: favoritePokemonTileset_142
+    21300286: favoritePokemonTileset_143
+    21300288: favoritePokemonTileset_144
+    21300290: favoritePokemonTileset_145
+    21300292: favoritePokemonTileset_146
+    21300294: favoritePokemonTileset_147
+    21300296: favoritePokemonTileset_148
+    21300298: favoritePokemonTileset_149
+    21300300: favoritePokemonTileset_150
+    21300302: favoritePokemonTileset_151
+    21300304: favoritePokemonTileset_152
+    21300306: favoritePokemonTileset_153
+    21300308: favoritePokemonTileset_154
+    21300310: favoritePokemonTileset_155
+    21300312: favoritePokemonTileset_156
+    21300314: favoritePokemonTileset_157
+    21300316: favoritePokemonTileset_158
+    21300318: favoritePokemonTileset_159
+    21300320: favoritePokemonTileset_160
+    21300322: favoritePokemonTileset_161
+    21300324: favoritePokemonTileset_162
+    21300326: favoritePokemonTileset_163
+    21300328: favoritePokemonTileset_164
+    21300330: favoritePokemonTileset_165
+    21300332: favoritePokemonTileset_166
+    21300334: favoritePokemonTileset_167
+    21300336: favoritePokemonTileset_168
+    21300338: favoritePokemonTileset_169
+    21300340: favoritePokemonTileset_170
+    21300342: favoritePokemonTileset_171
+    21300344: favoritePokemonTileset_172
+    21300346: favoritePokemonTileset_173
+    21300348: favoritePokemonTileset_174
+    21300350: favoritePokemonTileset_175
+    21300352: favoritePokemonTileset_176
+    21300354: favoritePokemonTileset_177
+    21300356: favoritePokemonTileset_178
+    21300358: favoritePokemonTileset_179
+    21300360: favoritePokemonTileset_180
+    21300362: favoritePokemonTileset_181
+    21300364: favoritePokemonTileset_182
+    21300366: favoritePokemonTileset_183
+    21300368: favoritePokemonTileset_184
+    21300370: favoritePokemonTileset_185
+    21300372: favoritePokemonTileset_186
+    21300374: favoritePokemonTileset_187
+    21300376: favoritePokemonTileset_188
+    21300378: favoritePokemonTileset_189
+    21300380: favoritePokemonTileset_190
+    21300382: favoritePokemonTileset_191
+    21300384: favoritePokemonTileset_192
+    21300386: favoritePokemonTileset_193
+    21300388: favoritePokemonTileset_194
+    21300390: favoritePokemonTileset_195
+    21300392: favoritePokemonTileset_196
+    21300394: favoritePokemonTileset_197
+    21300396: favoritePokemonTileset_198
+    21300398: favoritePokemonTileset_199
+    21300400: favoritePokemonTileset_200
+    21300402: favoritePokemonTileset_201
+    21300404: favoritePokemonTileset_202
+    21300406: favoritePokemonTileset_203
+    21300408: favoritePokemonTileset_204
+    21300410: favoritePokemonTileset_205
+    21300412: favoritePokemonTileset_206
+    21300414: favoritePokemonTileset_207
+    21300416: favoritePokemonTileset_208
+    21300418: favoritePokemonTileset_209
+    21300420: favoritePokemonTileset_210
+    21300422: favoritePokemonTileset_211
+    21300424: favoritePokemonTileset_212
+    21300426: favoritePokemonTileset_213
+    21300428: favoritePokemonTileset_214
+    21300430: favoritePokemonTileset_215
+    21300432: favoritePokemonTileset_216
+    21300434: favoritePokemonTileset_217
+    21300436: favoritePokemonTileset_218
+    21300438: favoritePokemonTileset_219
+    21300440: favoritePokemonTileset_220
+    21300442: favoritePokemonTileset_221
+    21300444: favoritePokemonTileset_222
+    21300446: favoritePokemonTileset_223
+    21300448: favoritePokemonTileset_224
+    21300450: favoritePokemonTileset_225
+    21300452: favoritePokemonTileset_226
+    21300454: favoritePokemonTileset_227
+    21300456: favoritePokemonTileset_228
+    21300458: favoritePokemonTileset_229
+    21300460: favoritePokemonTileset_230
+    21300462: favoritePokemonTileset_231
+    21300464: favoritePokemonTileset_232
+    21300466: favoritePokemonTileset_233
+    21300468: favoritePokemonTileset_234
+    21300470: favoritePokemonTileset_235
+    21300472: favoritePokemonTileset_236
+    21300474: favoritePokemonTileset_237
+    21300476: favoritePokemonTileset_238
+    21300478: favoritePokemonTileset_239
+    21300480: favoritePokemonTileset_240
+    21300482: favoritePokemonTileset_241
+    21300484: favoritePokemonTileset_242
+    21300486: favoritePokemonTileset_243
+    21300488: favoritePokemonTileset_244
+    21300490: favoritePokemonTileset_245
+    21300492: favoritePokemonTileset_246
+    21300494: favoritePokemonTileset_247
+    21300496: favoritePokemonTileset_248
+    21300498: favoritePokemonTileset_249
+    21300500: favoritePokemonTileset_250
+    21300502: favoritePokemonTileset_251
+    21300504: favoritePokemonTileset_252
+    21300506: favoritePokemonTileset_253
+    21300508: favoritePokemonTileset_254
+    21300510: favoritePokemonTileset_255
+    21300512: favoritePokemonTileset_256
+    21300514: favoritePokemonTileset_257
+    21300516: favoritePokemonTileset_258
+    21300518: favoritePokemonTileset_259
+    21300520: favoritePokemonTileset_260
+    21300522: favoritePokemonTileset_261
+    21300524: favoritePokemonTileset_262
+    21300526: favoritePokemonTileset_263
+    21300528: favoritePokemonTileset_264
+    21300530: favoritePokemonTileset_265
+    21300532: favoritePokemonTileset_266
+    21300534: favoritePokemonTileset_267
+    21300536: favoritePokemonTileset_268
+    21300538: favoritePokemonTileset_269
+    21300540: favoritePokemonTileset_270
+    21300542: favoritePokemonTileset_271
+    21300544: favoritePokemonTileset_272
+    21300546: favoritePokemonTileset_273
+    21300548: favoritePokemonTileset_274
+    21300550: favoritePokemonTileset_275
+    21300552: favoritePokemonTileset_276
+    21300554: favoritePokemonTileset_277
+    21300556: favoritePokemonTileset_278
+    21300558: favoritePokemonTileset_279
+    21300560: favoritePokemonTileset_280
+    21300562: favoritePokemonTileset_281
+    21300564: favoritePokemonTileset_282
+    21300566: favoritePokemonTileset_283
+    21300568: favoritePokemonTileset_284
+    21300570: favoritePokemonTileset_285
+    21300572: favoritePokemonTileset_286
+    21300574: favoritePokemonTileset_287
+    21300576: favoritePokemonTileset_288
+    21300578: favoritePokemonTileset_289
+    21300580: favoritePokemonTileset_290
+    21300582: favoritePokemonTileset_291
+    21300584: favoritePokemonTileset_292
+    21300586: favoritePokemonTileset_293
+    21300588: favoritePokemonTileset_294
+    21300590: favoritePokemonTileset_295
+    21300592: favoritePokemonTileset_296
+    21300594: favoritePokemonTileset_297
+    21300596: favoritePokemonTileset_298
+    21300598: favoritePokemonTileset_299
+    21300600: favoritePokemonTileset_300
+    21300602: favoritePokemonTileset_301
+    21300604: favoritePokemonTileset_302
+    21300606: favoritePokemonTileset_303
+    21300608: favoritePokemonTileset_304
+    21300610: favoritePokemonTileset_305
+    21300612: favoritePokemonTileset_306
+    21300614: favoritePokemonTileset_307
+    21300616: favoritePokemonTileset_308
+    21300618: favoritePokemonTileset_309
+    21300620: favoritePokemonTileset_310
+    21300622: favoritePokemonTileset_311
+    21300624: favoritePokemonTileset_312
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 8
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 32
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 32
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: favoritePokemonTileset_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2350
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2350
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2350
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2350
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2360
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2358
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2350
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2350
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2350
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2350
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_10
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2361
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_11
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2358
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2348
+        width: 290
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_13
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2348
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_14
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2348
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_15
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2348
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_16
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 2348
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_17
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2361
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_18
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 2355
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_19
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 2343
+        width: 434
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_20
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 2302
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_21
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 2302
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2266
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2266
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2266
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_25
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2266
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2279
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_27
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2280
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_28
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2261
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_29
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2261
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_30
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2261
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_31
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2261
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_32
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2280
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_33
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2281
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_34
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2261
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_35
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2261
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_36
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2261
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_37
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 2261
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_38
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2285
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_39
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 2286
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_40
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2267
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_41
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 2267
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_42
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2267
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_43
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 2267
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_44
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2279
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_45
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2279
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_46
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2239
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_47
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 2239
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2172
+        width: 242
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_49
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2207
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_50
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2207
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_51
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2207
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_52
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2207
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_53
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2207
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_54
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2207
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_55
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2204
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_56
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2205
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_57
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2207
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_58
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2199
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_59
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2183
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_60
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2204
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_61
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2189
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_62
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2192
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_63
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2207
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_64
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2204
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_65
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2190
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_66
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 2124
+        width: 87
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_67
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2124
+        width: 87
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_68
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2124
+        width: 86
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_69
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2124
+        width: 85
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_70
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 2207
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_71
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2234
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_72
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 2239
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_73
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 2225
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_74
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_75
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2222
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_76
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2219
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_77
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2214
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_78
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2172
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_79
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2174
+        width: 81
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_80
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2203
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_81
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2191
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_82
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 2193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_83
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2193
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_84
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2030
+        width: 608
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_85
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2186
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_86
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2183
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_87
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2015
+        width: 479
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_88
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 2095
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_89
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 2063
+        width: 242
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_90
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1951
+        width: 282
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_91
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 2133
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_92
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2015
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_93
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1980
+        width: 86
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_94
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1980
+        width: 85
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_95
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2077
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_96
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2010
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_97
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2015
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_98
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2020
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_99
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1903
+        width: 607
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_100
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1903
+        width: 243
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_101
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1934
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_102
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1925
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_103
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1903
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_104
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1903
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_105
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1919
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_106
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1925
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_107
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1855
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_108
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1918
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_109
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1871
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_110
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1871
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_111
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1871
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_112
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1871
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1680
+        width: 1171
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_114
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1886
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_115
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1856
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_116
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1790
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_117
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1824
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_118
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1824
+        width: 131
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_119
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1828
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_120
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1791
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_121
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1791
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_122
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1805
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_123
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1805
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_124
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1758
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_125
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1790
+        width: 67
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_126
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1727
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_127
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1774
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_128
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1774
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_129
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1728
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_130
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1728
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_131
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1728
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_132
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1727
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_133
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1728
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_134
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1728
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_135
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1742
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_136
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1742
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_137
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1526
+        width: 338
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_138
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1551
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_139
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1535
+        width: 256
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_140
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1402
+        width: 692
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_141
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1567
+        width: 116
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_142
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1535
+        width: 223
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_143
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1583
+        width: 243
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_144
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1560
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_145
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1612
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_146
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1603
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_147
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1572
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_148
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1590
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_149
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1572
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_150
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1570
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_151
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1438
+        width: 114
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_152
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1470
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_153
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1490
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_154
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1455
+        width: 193
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_155
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1374
+        width: 51
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_156
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1390
+        width: 42
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_157
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1344
+        width: 56
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_158
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1408
+        width: 156
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_159
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1409
+        width: 27
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_160
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1359
+        width: 330
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_161
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1422
+        width: 164
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_162
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1423
+        width: 64
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_163
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1361
+        width: 191
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_164
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1438
+        width: 140
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_165
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1470
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_166
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1388
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_167
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1388
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_168
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1401
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_169
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1446
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_170
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1381
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_171
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1429
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_172
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1375
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_173
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1390
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_174
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1390
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_175
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1390
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_176
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1390
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_177
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1390
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_178
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1423
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_179
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1405
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_180
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1388
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_181
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1312
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_182
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1342
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_183
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1327
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_184
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1246
+        width: 259
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_185
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1355
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_186
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1340
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_187
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1327
+        width: 97
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_188
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1342
+        width: 130
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_189
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1327
+        width: 113
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_190
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1342
+        width: 91
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_191
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1344
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_192
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1032
+        width: 514
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_193
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1191
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_194
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1198
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_195
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1191
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_196
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1196
+        width: 167
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_197
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1196
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_198
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1196
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_199
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1196
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_200
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1181
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_201
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1194
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_202
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1181
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_203
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1194
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_204
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1042
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_205
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1047
+        width: 109
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_206
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1046
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_207
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1046
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_208
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1051
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_209
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1051
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_210
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1038
+        width: 75
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_211
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1046
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_212
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1046
+        width: 75
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_213
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1048
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_214
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1031
+        width: 96
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_215
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1031
+        width: 96
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_216
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1024
+        width: 99
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_217
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1019
+        width: 114
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_218
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1011
+        width: 122
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_219
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 783
+        width: 514
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_220
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 898
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_221
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 904
+        width: 109
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_222
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 902
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_223
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 902
+        width: 99
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_224
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 906
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_225
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 906
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_226
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 894
+        width: 75
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_227
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 902
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_228
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 902
+        width: 75
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_229
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 904
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_230
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 884
+        width: 94
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_231
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 877
+        width: 75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_232
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 895
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_233
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 896
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_234
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 896
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_235
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 896
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_236
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 896
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_237
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 891
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_238
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 727
+        width: 82
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_239
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 727
+        width: 81
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_240
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 734
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_241
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 732
+        width: 89
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_242
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 741
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_243
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 741
+        width: 74
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_244
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 761
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_245
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 754
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_246
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 754
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_247
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 734
+        width: 159
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_248
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 623
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_249
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 609
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_250
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 623
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_251
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 609
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_252
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 636
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_253
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 638
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_254
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 623
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_255
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 623
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_256
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 637
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_257
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 623
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_258
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 623
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_259
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 623
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_260
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 640
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_261
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 638
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_262
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 649
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_263
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 639
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_264
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 631
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_265
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 628
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_266
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 638
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_267
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 638
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_268
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 638
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_269
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 638
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_270
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 623
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_271
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 623
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_272
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 623
+        width: 62
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_273
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 623
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_274
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 623
+        width: 63
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_275
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 623
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_276
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 623
+        width: 62
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_277
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 622
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_278
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 622
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_279
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 622
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_280
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 622
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_281
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 622
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_282
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 622
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_283
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 619
+        width: 75
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_284
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 619
+        width: 58
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_285
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 619
+        width: 75
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_286
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 427
+        width: 104
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_287
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 446
+        width: 121
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_288
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 439
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_289
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 428
+        width: 163
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_290
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 441
+        width: 133
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_291
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 446
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_292
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 460
+        width: 121
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_293
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 440
+        width: 118
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_294
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 447
+        width: 134
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_295
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 441
+        width: 144
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_296
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 347
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_297
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 309
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_298
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 84
+        width: 119
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_299
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 333
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_300
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 115
+        width: 95
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_301
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 128
+        width: 78
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_302
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 120
+        width: 154
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_303
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 188
+        width: 222
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_304
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 107
+        width: 104
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_305
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 112
+        width: 120
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_306
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 110
+        width: 194
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_307
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 146
+        width: 107
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_308
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 149
+        width: 179
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_309
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 176
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_310
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 190
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_311
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 155
+        width: 132
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: favoritePokemonTileset_312
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 179
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

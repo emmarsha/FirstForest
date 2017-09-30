@@ -1,0 +1,5887 @@
+fileFormatVersion: 2
+guid: 05b6a72530425214fad6fea61dbc0ee6
+timeCreated: 1505519148
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pokemon_berryTrees_0
+    21300002: pokemon_berryTrees_1
+    21300004: pokemon_berryTrees_2
+    21300006: pokemon_berryTrees_3
+    21300008: pokemon_berryTrees_4
+    21300010: pokemon_berryTrees_5
+    21300012: pokemon_berryTrees_6
+    21300014: pokemon_berryTrees_7
+    21300016: pokemon_berryTrees_8
+    21300018: pokemon_berryTrees_9
+    21300020: pokemon_berryTrees_10
+    21300022: pokemon_berryTrees_11
+    21300024: pokemon_berryTrees_12
+    21300026: pokemon_berryTrees_13
+    21300028: pokemon_berryTrees_14
+    21300030: pokemon_berryTrees_15
+    21300032: pokemon_berryTrees_16
+    21300034: pokemon_berryTrees_17
+    21300036: pokemon_berryTrees_18
+    21300038: pokemon_berryTrees_19
+    21300040: pokemon_berryTrees_20
+    21300042: pokemon_berryTrees_21
+    21300044: pokemon_berryTrees_22
+    21300046: pokemon_berryTrees_23
+    21300048: pokemon_berryTrees_24
+    21300050: pokemon_berryTrees_25
+    21300052: pokemon_berryTrees_26
+    21300054: pokemon_berryTrees_27
+    21300056: pokemon_berryTrees_28
+    21300058: pokemon_berryTrees_29
+    21300060: pokemon_berryTrees_30
+    21300062: pokemon_berryTrees_31
+    21300064: pokemon_berryTrees_32
+    21300066: pokemon_berryTrees_33
+    21300068: pokemon_berryTrees_34
+    21300070: pokemon_berryTrees_35
+    21300072: pokemon_berryTrees_36
+    21300074: pokemon_berryTrees_37
+    21300076: pokemon_berryTrees_38
+    21300078: pokemon_berryTrees_39
+    21300080: pokemon_berryTrees_40
+    21300082: pokemon_berryTrees_41
+    21300084: pokemon_berryTrees_42
+    21300086: pokemon_berryTrees_43
+    21300088: pokemon_berryTrees_44
+    21300090: pokemon_berryTrees_45
+    21300092: pokemon_berryTrees_46
+    21300094: pokemon_berryTrees_47
+    21300096: pokemon_berryTrees_48
+    21300098: pokemon_berryTrees_49
+    21300100: pokemon_berryTrees_50
+    21300102: pokemon_berryTrees_51
+    21300104: pokemon_berryTrees_52
+    21300106: pokemon_berryTrees_53
+    21300108: pokemon_berryTrees_54
+    21300110: pokemon_berryTrees_55
+    21300112: pokemon_berryTrees_56
+    21300114: pokemon_berryTrees_57
+    21300116: pokemon_berryTrees_58
+    21300118: pokemon_berryTrees_59
+    21300120: pokemon_berryTrees_60
+    21300122: pokemon_berryTrees_61
+    21300124: pokemon_berryTrees_62
+    21300126: pokemon_berryTrees_63
+    21300128: pokemon_berryTrees_64
+    21300130: pokemon_berryTrees_65
+    21300132: pokemon_berryTrees_66
+    21300134: pokemon_berryTrees_67
+    21300136: pokemon_berryTrees_68
+    21300138: pokemon_berryTrees_69
+    21300140: pokemon_berryTrees_70
+    21300142: pokemon_berryTrees_71
+    21300144: pokemon_berryTrees_72
+    21300146: pokemon_berryTrees_73
+    21300148: pokemon_berryTrees_74
+    21300150: pokemon_berryTrees_75
+    21300152: pokemon_berryTrees_76
+    21300154: pokemon_berryTrees_77
+    21300156: pokemon_berryTrees_78
+    21300158: pokemon_berryTrees_79
+    21300160: pokemon_berryTrees_80
+    21300162: pokemon_berryTrees_81
+    21300164: pokemon_berryTrees_82
+    21300166: pokemon_berryTrees_83
+    21300168: pokemon_berryTrees_84
+    21300170: pokemon_berryTrees_85
+    21300172: pokemon_berryTrees_86
+    21300174: pokemon_berryTrees_87
+    21300176: pokemon_berryTrees_88
+    21300178: pokemon_berryTrees_89
+    21300180: pokemon_berryTrees_90
+    21300182: pokemon_berryTrees_91
+    21300184: pokemon_berryTrees_92
+    21300186: pokemon_berryTrees_93
+    21300188: pokemon_berryTrees_94
+    21300190: pokemon_berryTrees_95
+    21300192: pokemon_berryTrees_96
+    21300194: pokemon_berryTrees_97
+    21300196: pokemon_berryTrees_98
+    21300198: pokemon_berryTrees_99
+    21300200: pokemon_berryTrees_100
+    21300202: pokemon_berryTrees_101
+    21300204: pokemon_berryTrees_102
+    21300206: pokemon_berryTrees_103
+    21300208: pokemon_berryTrees_104
+    21300210: pokemon_berryTrees_105
+    21300212: pokemon_berryTrees_106
+    21300214: pokemon_berryTrees_107
+    21300216: pokemon_berryTrees_108
+    21300218: pokemon_berryTrees_109
+    21300220: pokemon_berryTrees_110
+    21300222: pokemon_berryTrees_111
+    21300224: pokemon_berryTrees_112
+    21300226: pokemon_berryTrees_113
+    21300228: pokemon_berryTrees_114
+    21300230: pokemon_berryTrees_115
+    21300232: pokemon_berryTrees_116
+    21300234: pokemon_berryTrees_117
+    21300236: pokemon_berryTrees_118
+    21300238: pokemon_berryTrees_119
+    21300240: pokemon_berryTrees_120
+    21300242: pokemon_berryTrees_121
+    21300244: pokemon_berryTrees_122
+    21300246: pokemon_berryTrees_123
+    21300248: pokemon_berryTrees_124
+    21300250: pokemon_berryTrees_125
+    21300252: pokemon_berryTrees_126
+    21300254: pokemon_berryTrees_127
+    21300256: pokemon_berryTrees_128
+    21300258: pokemon_berryTrees_129
+    21300260: pokemon_berryTrees_130
+    21300262: pokemon_berryTrees_131
+    21300264: pokemon_berryTrees_132
+    21300266: pokemon_berryTrees_133
+    21300268: pokemon_berryTrees_134
+    21300270: pokemon_berryTrees_135
+    21300272: pokemon_berryTrees_136
+    21300274: pokemon_berryTrees_137
+    21300276: pokemon_berryTrees_138
+    21300278: pokemon_berryTrees_139
+    21300280: pokemon_berryTrees_140
+    21300282: pokemon_berryTrees_141
+    21300284: pokemon_berryTrees_142
+    21300286: pokemon_berryTrees_143
+    21300288: pokemon_berryTrees_144
+    21300290: pokemon_berryTrees_145
+    21300292: pokemon_berryTrees_146
+    21300294: pokemon_berryTrees_147
+    21300296: pokemon_berryTrees_148
+    21300298: pokemon_berryTrees_149
+    21300300: pokemon_berryTrees_150
+    21300302: pokemon_berryTrees_151
+    21300304: pokemon_berryTrees_152
+    21300306: pokemon_berryTrees_153
+    21300308: pokemon_berryTrees_154
+    21300310: pokemon_berryTrees_155
+    21300312: pokemon_berryTrees_156
+    21300314: pokemon_berryTrees_157
+    21300316: pokemon_berryTrees_158
+    21300318: pokemon_berryTrees_159
+    21300320: pokemon_berryTrees_160
+    21300322: pokemon_berryTrees_161
+    21300324: pokemon_berryTrees_162
+    21300326: pokemon_berryTrees_163
+    21300328: pokemon_berryTrees_164
+    21300330: pokemon_berryTrees_165
+    21300332: pokemon_berryTrees_166
+    21300334: pokemon_berryTrees_167
+    21300336: pokemon_berryTrees_168
+    21300338: pokemon_berryTrees_169
+    21300340: pokemon_berryTrees_170
+    21300342: pokemon_berryTrees_171
+    21300344: pokemon_berryTrees_172
+    21300346: pokemon_berryTrees_173
+    21300348: pokemon_berryTrees_174
+    21300350: pokemon_berryTrees_175
+    21300352: pokemon_berryTrees_176
+    21300354: pokemon_berryTrees_177
+    21300356: pokemon_berryTrees_178
+    21300358: pokemon_berryTrees_179
+    21300360: pokemon_berryTrees_180
+    21300362: pokemon_berryTrees_181
+    21300364: pokemon_berryTrees_182
+    21300366: pokemon_berryTrees_183
+    21300368: pokemon_berryTrees_184
+    21300370: pokemon_berryTrees_185
+    21300372: pokemon_berryTrees_186
+    21300374: pokemon_berryTrees_187
+    21300376: pokemon_berryTrees_188
+    21300378: pokemon_berryTrees_189
+    21300380: pokemon_berryTrees_190
+    21300382: pokemon_berryTrees_191
+    21300384: pokemon_berryTrees_192
+    21300386: pokemon_berryTrees_193
+    21300388: pokemon_berryTrees_194
+    21300390: pokemon_berryTrees_195
+    21300392: pokemon_berryTrees_196
+    21300394: pokemon_berryTrees_197
+    21300396: pokemon_berryTrees_198
+    21300398: pokemon_berryTrees_199
+    21300400: pokemon_berryTrees_200
+    21300402: pokemon_berryTrees_201
+    21300404: pokemon_berryTrees_202
+    21300406: pokemon_berryTrees_203
+    21300408: pokemon_berryTrees_204
+    21300410: pokemon_berryTrees_205
+    21300412: pokemon_berryTrees_206
+    21300414: pokemon_berryTrees_207
+    21300416: pokemon_berryTrees_208
+    21300418: pokemon_berryTrees_209
+    21300420: pokemon_berryTrees_210
+    21300422: pokemon_berryTrees_211
+    21300424: pokemon_berryTrees_212
+    21300426: pokemon_berryTrees_213
+    21300428: pokemon_berryTrees_214
+    21300430: pokemon_berryTrees_215
+    21300432: pokemon_berryTrees_216
+    21300434: pokemon_berryTrees_217
+    21300436: pokemon_berryTrees_218
+    21300438: pokemon_berryTrees_219
+    21300440: pokemon_berryTrees_220
+    21300442: pokemon_berryTrees_221
+    21300444: pokemon_berryTrees_222
+    21300446: pokemon_berryTrees_223
+    21300448: pokemon_berryTrees_224
+    21300450: pokemon_berryTrees_225
+    21300452: pokemon_berryTrees_226
+    21300454: pokemon_berryTrees_227
+    21300456: pokemon_berryTrees_228
+    21300458: pokemon_berryTrees_229
+    21300460: pokemon_berryTrees_230
+    21300462: pokemon_berryTrees_231
+    21300464: pokemon_berryTrees_232
+    21300466: pokemon_berryTrees_233
+    21300468: pokemon_berryTrees_234
+    21300470: pokemon_berryTrees_235
+    21300472: pokemon_berryTrees_236
+    21300474: pokemon_berryTrees_237
+    21300476: pokemon_berryTrees_238
+    21300478: pokemon_berryTrees_239
+    21300480: pokemon_berryTrees_240
+    21300482: pokemon_berryTrees_241
+    21300484: pokemon_berryTrees_242
+    21300486: pokemon_berryTrees_243
+    21300488: pokemon_berryTrees_244
+    21300490: pokemon_berryTrees_245
+    21300492: pokemon_berryTrees_246
+    21300494: pokemon_berryTrees_247
+    21300496: pokemon_berryTrees_248
+    21300498: pokemon_berryTrees_249
+    21300500: pokemon_berryTrees_250
+    21300502: pokemon_berryTrees_251
+    21300504: pokemon_berryTrees_252
+    21300506: pokemon_berryTrees_253
+    21300508: pokemon_berryTrees_254
+    21300510: pokemon_berryTrees_255
+    21300512: pokemon_berryTrees_256
+    21300514: pokemon_berryTrees_257
+    21300516: pokemon_berryTrees_258
+    21300518: pokemon_berryTrees_259
+    21300520: pokemon_berryTrees_260
+    21300522: pokemon_berryTrees_261
+    21300524: pokemon_berryTrees_262
+    21300526: pokemon_berryTrees_263
+    21300528: pokemon_berryTrees_264
+    21300530: pokemon_berryTrees_265
+    21300532: pokemon_berryTrees_266
+    21300534: pokemon_berryTrees_267
+    21300536: pokemon_berryTrees_268
+    21300538: pokemon_berryTrees_269
+    21300540: pokemon_berryTrees_270
+    21300542: pokemon_berryTrees_271
+    21300544: pokemon_berryTrees_272
+    21300546: pokemon_berryTrees_273
+    21300548: pokemon_berryTrees_274
+    21300550: pokemon_berryTrees_275
+    21300552: pokemon_berryTrees_276
+    21300554: pokemon_berryTrees_277
+    21300556: pokemon_berryTrees_278
+    21300558: pokemon_berryTrees_279
+    21300560: pokemon_berryTrees_280
+    21300562: pokemon_berryTrees_281
+    21300564: pokemon_berryTrees_282
+    21300566: pokemon_berryTrees_283
+    21300568: pokemon_berryTrees_284
+    21300570: pokemon_berryTrees_285
+    21300572: pokemon_berryTrees_286
+    21300574: pokemon_berryTrees_287
+    21300576: pokemon_berryTrees_288
+    21300578: pokemon_berryTrees_289
+    21300580: pokemon_berryTrees_290
+    21300582: pokemon_berryTrees_291
+    21300584: pokemon_berryTrees_292
+    21300586: pokemon_berryTrees_293
+    21300588: pokemon_berryTrees_294
+    21300590: pokemon_berryTrees_295
+    21300592: pokemon_berryTrees_296
+    21300594: pokemon_berryTrees_297
+    21300596: pokemon_berryTrees_298
+    21300598: pokemon_berryTrees_299
+    21300600: pokemon_berryTrees_300
+    21300602: pokemon_berryTrees_301
+    21300604: pokemon_berryTrees_302
+    21300606: pokemon_berryTrees_303
+    21300608: pokemon_berryTrees_304
+    21300610: pokemon_berryTrees_305
+    21300612: pokemon_berryTrees_306
+    21300614: pokemon_berryTrees_307
+    21300616: pokemon_berryTrees_308
+    21300618: pokemon_berryTrees_309
+    21300620: pokemon_berryTrees_310
+    21300622: pokemon_berryTrees_311
+    21300624: pokemon_berryTrees_312
+    21300626: pokemon_berryTrees_313
+    21300628: pokemon_berryTrees_314
+    21300630: pokemon_berryTrees_315
+    21300632: pokemon_berryTrees_316
+    21300634: pokemon_berryTrees_317
+    21300636: pokemon_berryTrees_318
+    21300638: pokemon_berryTrees_319
+    21300640: pokemon_berryTrees_320
+    21300642: pokemon_berryTrees_321
+    21300644: pokemon_berryTrees_322
+    21300646: pokemon_berryTrees_323
+    21300648: pokemon_berryTrees_324
+    21300650: pokemon_berryTrees_325
+    21300652: pokemon_berryTrees_326
+    21300654: pokemon_berryTrees_327
+    21300656: pokemon_berryTrees_328
+    21300658: pokemon_berryTrees_329
+    21300660: pokemon_berryTrees_330
+    21300662: pokemon_berryTrees_331
+    21300664: pokemon_berryTrees_332
+    21300666: pokemon_berryTrees_333
+    21300668: pokemon_berryTrees_334
+    21300670: pokemon_berryTrees_335
+    21300672: pokemon_berryTrees_336
+    21300674: pokemon_berryTrees_337
+    21300676: pokemon_berryTrees_338
+    21300678: pokemon_berryTrees_339
+    21300680: pokemon_berryTrees_340
+    21300682: pokemon_berryTrees_341
+    21300684: pokemon_berryTrees_342
+    21300686: pokemon_berryTrees_343
+    21300688: pokemon_berryTrees_344
+    21300690: pokemon_berryTrees_345
+    21300692: pokemon_berryTrees_346
+    21300694: pokemon_berryTrees_347
+    21300696: pokemon_berryTrees_348
+    21300698: pokemon_berryTrees_349
+    21300700: pokemon_berryTrees_350
+    21300702: pokemon_berryTrees_351
+    21300704: pokemon_berryTrees_352
+    21300706: pokemon_berryTrees_353
+    21300708: pokemon_berryTrees_354
+    21300710: pokemon_berryTrees_355
+    21300712: pokemon_berryTrees_356
+    21300714: pokemon_berryTrees_357
+    21300716: pokemon_berryTrees_358
+    21300718: pokemon_berryTrees_359
+    21300720: pokemon_berryTrees_360
+    21300722: pokemon_berryTrees_361
+    21300724: pokemon_berryTrees_362
+    21300726: pokemon_berryTrees_363
+    21300728: pokemon_berryTrees_364
+    21300730: pokemon_berryTrees_365
+    21300732: pokemon_berryTrees_366
+    21300734: pokemon_berryTrees_367
+    21300736: pokemon_berryTrees_368
+    21300738: pokemon_berryTrees_369
+    21300740: pokemon_berryTrees_370
+    21300742: pokemon_berryTrees_371
+    21300744: pokemon_berryTrees_372
+    21300746: pokemon_berryTrees_373
+    21300748: pokemon_berryTrees_374
+    21300750: pokemon_berryTrees_375
+    21300752: pokemon_berryTrees_376
+    21300754: pokemon_berryTrees_377
+    21300756: pokemon_berryTrees_378
+    21300758: pokemon_berryTrees_379
+    21300760: pokemon_berryTrees_380
+    21300762: pokemon_berryTrees_381
+    21300764: pokemon_berryTrees_382
+    21300766: pokemon_berryTrees_383
+    21300768: pokemon_berryTrees_384
+    21300770: pokemon_berryTrees_385
+    21300772: pokemon_berryTrees_386
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokemon_berryTrees_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 426
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 426
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 426
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 426
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 426
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 426
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 426
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 426
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 426
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 426
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 426
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 426
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 426
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 426
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 426
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_15
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 426
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 426
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 426
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_18
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 426
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_19
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 426
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_20
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 426
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_21
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 426
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_22
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 426
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_23
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 426
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_24
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 426
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_25
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 426
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_26
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 426
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_27
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 426
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_28
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 426
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 426
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_30
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 426
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_31
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 426
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 391
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 391
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 391
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 391
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 391
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 391
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 391
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_39
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 391
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 391
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_41
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 391
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_42
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 391
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 391
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_44
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 391
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_45
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 391
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_46
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 391
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_47
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 391
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_48
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 391
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_49
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 391
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_50
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 391
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_51
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 391
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_52
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 391
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_53
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 391
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_54
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 391
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_55
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 391
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_56
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 391
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_57
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 391
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_58
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 391
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_59
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 391
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_60
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 391
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_61
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 391
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_62
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 391
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_63
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 391
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 356
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_65
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 356
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_66
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 356
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 356
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 356
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_69
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 356
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_70
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 356
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_71
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 356
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_72
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 356
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 356
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_74
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 356
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_75
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 356
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_76
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 356
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_77
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 356
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_78
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 356
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_79
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 356
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_80
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 356
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_81
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 356
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_82
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 356
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_83
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 356
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_84
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 356
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_85
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 356
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_86
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 356
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_87
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 356
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_88
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 356
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_89
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 356
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_90
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 356
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_91
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 356
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_92
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 356
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_93
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 356
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_94
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 356
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_95
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 356
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_96
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 320
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_97
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 320
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_98
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 320
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_99
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 320
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_100
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 320
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_101
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 320
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_102
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 320
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_103
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 320
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_104
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 320
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_105
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 320
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_106
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_107
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 320
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_109
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 320
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_110
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 320
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_111
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 320
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_112
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 320
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_113
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 320
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_114
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 320
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_115
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 320
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_116
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 320
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_117
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 320
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_118
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 320
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_119
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 320
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_120
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 320
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_121
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 320
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_122
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 320
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_123
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_124
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 320
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_125
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 320
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_126
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 320
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_127
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 320
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_128
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 285
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_129
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 285
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_130
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 285
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_131
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 285
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_132
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 285
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_133
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 285
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_134
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 285
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_135
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 285
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_136
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 285
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_137
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 285
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_138
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 285
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_139
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 285
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 285
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_141
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 285
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_142
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 285
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_143
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 285
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_144
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 285
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_145
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 285
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_146
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 285
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_147
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 285
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_148
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 285
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_149
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 285
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_150
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 285
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_151
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 285
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_152
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 285
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_153
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 285
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_154
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 285
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_155
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 285
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_156
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 285
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_157
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 285
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_158
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 285
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_159
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 285
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_160
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 250
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_161
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 250
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_162
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 250
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_163
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 250
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_164
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 250
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_165
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 250
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_166
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 250
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_167
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 250
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_168
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 250
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_169
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 250
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_170
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 250
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_171
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 250
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_172
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 250
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_173
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 250
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_174
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 250
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_175
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 250
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_176
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 250
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_177
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 250
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_178
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 250
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_179
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 250
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_180
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 250
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_181
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 250
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_182
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 250
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_183
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 250
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_184
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 250
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_185
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 250
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_186
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 250
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_187
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 250
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_188
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 250
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_189
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 250
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_190
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 250
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_191
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 250
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_192
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 214
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_193
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 214
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_194
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 214
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_195
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 214
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_196
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 214
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_197
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 214
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_198
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 214
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_199
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 214
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_200
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 214
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_201
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 214
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_202
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 214
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_203
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 214
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_204
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 214
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_205
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 214
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_206
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 214
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_207
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 214
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_208
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 214
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_209
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 214
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_210
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 214
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_211
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 214
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_212
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 214
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_213
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 214
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_214
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 214
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_215
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 214
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_216
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 214
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_217
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 214
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_218
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 214
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_219
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 214
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_220
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 214
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_221
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 214
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_222
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 214
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_223
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 214
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_224
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 179
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_225
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 179
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_226
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 179
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_227
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 179
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_228
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 179
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_229
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 179
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_230
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 179
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_231
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 179
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_232
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 179
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_233
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 179
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_234
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 179
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_235
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 179
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_236
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 179
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_237
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 179
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_238
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 179
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_239
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 179
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_240
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 179
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_241
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 179
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_242
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 179
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_243
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 179
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_244
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 179
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_245
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 179
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_246
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 179
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_247
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 179
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_248
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 179
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_249
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 179
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_250
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 179
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_251
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 179
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_252
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 179
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_253
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 179
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_254
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 179
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_255
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 179
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_256
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 144
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_257
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 144
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_258
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 144
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_259
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 144
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_260
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_261
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 144
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_262
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 144
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_263
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 144
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_264
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 144
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_265
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_266
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_267
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_268
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_269
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 144
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_270
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 144
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_271
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 144
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_272
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 144
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_273
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 144
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_274
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 144
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_275
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 144
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_276
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 144
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_277
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 144
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_278
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 144
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_279
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 144
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_280
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 144
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_281
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 144
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_282
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 144
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_283
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 144
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_284
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 144
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_285
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 144
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_286
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 144
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_287
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 144
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_288
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 108
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_289
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 108
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_290
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 108
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_291
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_292
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 108
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_293
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 108
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_294
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_295
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 108
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_296
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 108
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_297
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 108
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_298
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 108
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_299
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 108
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_300
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_301
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_302
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 108
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_303
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_304
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 108
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_305
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 108
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_306
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 108
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_307
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 108
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_308
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 109
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_309
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 108
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_310
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 108
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_311
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 108
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_312
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 108
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_313
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 108
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_314
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 108
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_315
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 108
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_316
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_317
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_318
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 108
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_319
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 108
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_320
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 73
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_321
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 73
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_322
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 73
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_323
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_324
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 73
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_325
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 73
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_326
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_327
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 73
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_328
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 73
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_329
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 74
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_330
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 73
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_331
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 73
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_332
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 73
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_333
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 73
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_334
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 73
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_335
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 73
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_336
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 73
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_337
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 73
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_338
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 73
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_339
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 73
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_340
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 73
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_341
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 73
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_342
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 73
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_343
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 73
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_344
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 73
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_345
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 73
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_346
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 73
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_347
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 73
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_348
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 73
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_349
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 73
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_350
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 73
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_351
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 73
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_352
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 39
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_353
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 38
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_354
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 38
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_355
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 38
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_356
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 38
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_357
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 38
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_358
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 13
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_359
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 38
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_360
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 38
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_361
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 38
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_362
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 38
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_363
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 39
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_364
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 38
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_365
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 38
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_366
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 38
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_367
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 38
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_368
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 38
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_369
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 38
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_370
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 38
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_371
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 32
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_372
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 38
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_373
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 38
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_374
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 28
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_375
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 29
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_376
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 38
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_377
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 38
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_378
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 18
+        width: 15
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_379
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 38
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_380
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 38
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_381
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 38
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_382
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 38
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_383
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 38
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_384
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 12
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_385
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 12
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_berryTrees_386
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 13
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

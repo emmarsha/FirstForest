@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: a90988d1bdc81ba4f886cf5231f7a662
+timeCreated: 1501639507
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: b_w_brendan_overworlds__by_segesi-d4zoyhn_0
+    21300002: b_w_brendan_overworlds__by_segesi-d4zoyhn_1
+    21300004: b_w_brendan_overworlds__by_segesi-d4zoyhn_2
+    21300006: b_w_brendan_overworlds__by_segesi-d4zoyhn_3
+    21300008: b_w_brendan_overworlds__by_segesi-d4zoyhn_4
+    21300010: b_w_brendan_overworlds__by_segesi-d4zoyhn_5
+    21300012: b_w_brendan_overworlds__by_segesi-d4zoyhn_6
+    21300014: b_w_brendan_overworlds__by_segesi-d4zoyhn_7
+    21300016: b_w_brendan_overworlds__by_segesi-d4zoyhn_8
+    21300018: b_w_brendan_overworlds__by_segesi-d4zoyhn_9
+    21300020: b_w_brendan_overworlds__by_segesi-d4zoyhn_10
+    21300022: b_w_brendan_overworlds__by_segesi-d4zoyhn_11
+    21300024: b_w_brendan_overworlds__by_segesi-d4zoyhn_12
+    21300026: b_w_brendan_overworlds__by_segesi-d4zoyhn_13
+    21300028: b_w_brendan_overworlds__by_segesi-d4zoyhn_14
+    21300030: b_w_brendan_overworlds__by_segesi-d4zoyhn_15
+    21300032: b_w_brendan_overworlds__by_segesi-d4zoyhn_16
+    21300034: b_w_brendan_overworlds__by_segesi-d4zoyhn_17
+    21300036: b_w_brendan_overworlds__by_segesi-d4zoyhn_18
+    21300038: b_w_brendan_overworlds__by_segesi-d4zoyhn_19
+    21300040: b_w_brendan_overworlds__by_segesi-d4zoyhn_20
+    21300042: b_w_brendan_overworlds__by_segesi-d4zoyhn_21
+    21300044: b_w_brendan_overworlds__by_segesi-d4zoyhn_22
+    21300046: b_w_brendan_overworlds__by_segesi-d4zoyhn_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 108
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 108
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 108
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 108
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 108
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 108
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 76
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 76
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 76
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 76
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 76
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 76
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 44
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 44
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 44
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 44
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 44
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 12
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 12
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 12
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 12
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: b_w_brendan_overworlds__by_segesi-d4zoyhn_23
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 12
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

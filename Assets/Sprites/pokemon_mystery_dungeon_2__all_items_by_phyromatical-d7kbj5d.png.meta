@@ -1,0 +1,3922 @@
+fileFormatVersion: 2
+guid: 09295397519304b4d82f8d2a9c50bfcf
+timeCreated: 1501357368
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_0
+    21300002: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_1
+    21300004: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_2
+    21300006: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_3
+    21300008: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_4
+    21300010: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_5
+    21300012: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_6
+    21300014: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_7
+    21300016: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_8
+    21300018: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_9
+    21300020: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_10
+    21300022: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_11
+    21300024: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_12
+    21300026: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_13
+    21300028: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_14
+    21300030: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_15
+    21300032: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_16
+    21300034: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_17
+    21300036: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_18
+    21300038: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_19
+    21300040: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_20
+    21300042: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_21
+    21300044: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_22
+    21300046: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_23
+    21300048: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_24
+    21300050: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_25
+    21300052: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_26
+    21300054: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_27
+    21300056: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_28
+    21300058: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_29
+    21300060: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_30
+    21300062: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_31
+    21300064: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_32
+    21300066: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_33
+    21300068: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_34
+    21300070: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_35
+    21300072: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_36
+    21300074: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_37
+    21300076: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_38
+    21300078: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_39
+    21300080: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_40
+    21300082: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_41
+    21300084: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_42
+    21300086: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_43
+    21300088: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_44
+    21300090: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_45
+    21300092: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_46
+    21300094: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_47
+    21300096: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_48
+    21300098: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_49
+    21300100: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_50
+    21300102: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_51
+    21300104: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_52
+    21300106: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_53
+    21300108: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_54
+    21300110: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_55
+    21300112: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_56
+    21300114: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_57
+    21300116: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_58
+    21300118: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_59
+    21300120: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_60
+    21300122: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_61
+    21300124: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_62
+    21300126: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_63
+    21300128: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_64
+    21300130: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_65
+    21300132: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_66
+    21300134: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_67
+    21300136: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_68
+    21300138: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_69
+    21300140: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_70
+    21300142: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_71
+    21300144: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_72
+    21300146: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_73
+    21300148: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_74
+    21300150: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_75
+    21300152: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_76
+    21300154: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_77
+    21300156: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_78
+    21300158: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_79
+    21300160: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_80
+    21300162: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_81
+    21300164: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_82
+    21300166: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_83
+    21300168: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_84
+    21300170: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_85
+    21300172: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_86
+    21300174: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_87
+    21300176: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_88
+    21300178: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_89
+    21300180: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_90
+    21300182: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_91
+    21300184: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_92
+    21300186: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_93
+    21300188: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_94
+    21300190: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_95
+    21300192: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_96
+    21300194: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_97
+    21300196: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_98
+    21300198: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_99
+    21300200: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_100
+    21300202: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_101
+    21300204: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_102
+    21300206: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_103
+    21300208: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_104
+    21300210: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_105
+    21300212: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_106
+    21300214: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_107
+    21300216: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_108
+    21300218: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_109
+    21300220: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_110
+    21300222: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_111
+    21300224: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_112
+    21300226: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_113
+    21300228: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_114
+    21300230: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_115
+    21300232: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_116
+    21300234: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_117
+    21300236: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_118
+    21300238: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_119
+    21300240: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_120
+    21300242: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_121
+    21300244: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_122
+    21300246: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_123
+    21300248: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_124
+    21300250: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_125
+    21300252: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_126
+    21300254: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_127
+    21300256: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_128
+    21300258: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_129
+    21300260: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_130
+    21300262: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_131
+    21300264: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_132
+    21300266: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_133
+    21300268: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_134
+    21300270: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_135
+    21300272: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_136
+    21300274: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_137
+    21300276: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_138
+    21300278: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_139
+    21300280: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_140
+    21300282: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_141
+    21300284: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_142
+    21300286: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_143
+    21300288: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_144
+    21300290: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_145
+    21300292: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_146
+    21300294: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_147
+    21300296: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_148
+    21300298: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_149
+    21300300: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_150
+    21300302: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_151
+    21300304: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_152
+    21300306: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_153
+    21300308: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_154
+    21300310: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_155
+    21300312: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_156
+    21300314: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_157
+    21300316: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_158
+    21300318: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_159
+    21300320: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_160
+    21300322: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_161
+    21300324: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_162
+    21300326: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_163
+    21300328: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_164
+    21300330: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_165
+    21300332: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_166
+    21300334: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_167
+    21300336: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_168
+    21300338: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_169
+    21300340: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_170
+    21300342: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_171
+    21300344: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_172
+    21300346: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_173
+    21300348: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_174
+    21300350: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_175
+    21300352: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_176
+    21300354: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_177
+    21300356: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_178
+    21300358: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_179
+    21300360: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_180
+    21300362: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_181
+    21300364: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_182
+    21300366: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_183
+    21300368: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_184
+    21300370: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_185
+    21300372: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_186
+    21300374: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_187
+    21300376: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_188
+    21300378: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_189
+    21300380: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_190
+    21300382: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_191
+    21300384: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_192
+    21300386: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_193
+    21300388: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_194
+    21300390: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_195
+    21300392: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_196
+    21300394: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_197
+    21300396: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_198
+    21300398: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_199
+    21300400: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_200
+    21300402: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_201
+    21300404: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_202
+    21300406: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_203
+    21300408: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_204
+    21300410: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_205
+    21300412: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_206
+    21300414: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_207
+    21300416: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_208
+    21300418: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_209
+    21300420: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_210
+    21300422: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_211
+    21300424: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_212
+    21300426: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_213
+    21300428: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_214
+    21300430: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_215
+    21300432: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_216
+    21300434: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_217
+    21300436: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_218
+    21300438: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_219
+    21300440: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_220
+    21300442: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_221
+    21300444: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_222
+    21300446: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_223
+    21300448: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_224
+    21300450: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_225
+    21300452: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_226
+    21300454: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_227
+    21300456: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_228
+    21300458: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_229
+    21300460: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_230
+    21300462: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_231
+    21300464: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_232
+    21300466: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_233
+    21300468: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_234
+    21300470: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_235
+    21300472: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_236
+    21300474: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_237
+    21300476: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_238
+    21300478: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_239
+    21300480: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_240
+    21300482: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_241
+    21300484: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_242
+    21300486: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_243
+    21300488: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_244
+    21300490: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_245
+    21300492: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_246
+    21300494: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_247
+    21300496: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_248
+    21300498: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_249
+    21300500: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_250
+    21300502: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_251
+    21300504: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_252
+    21300506: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_253
+    21300508: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_254
+    21300510: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_255
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 552
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 552
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 552
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 552
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 552
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 552
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 552
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 552
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 552
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_85
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_91
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_93
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_97
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_99
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_101
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_103
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_104
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_105
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_106
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_107
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_109
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_111
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_112
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_113
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_115
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_116
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_117
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_119
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_121
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_122
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_123
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_125
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_126
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_127
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_129
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_131
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_132
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_133
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_134
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_135
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_136
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_137
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_139
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_141
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_142
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_143
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_144
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_145
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_146
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_147
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_149
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_151
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_152
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_153
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_155
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_156
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_157
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_158
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_159
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_161
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_162
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_163
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_164
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_165
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_166
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_167
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_169
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_171
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_172
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_173
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_175
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_176
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_177
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_178
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_179
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_181
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_182
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_183
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_184
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_185
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_186
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_187
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_189
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_191
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_192
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_193
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_195
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_196
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_197
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_199
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_201
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_202
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_203
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_204
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_205
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_206
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_207
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_208
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_209
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_211
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_212
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_213
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_214
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_215
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_216
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_217
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_218
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_219
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_221
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_222
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_223
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_224
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_225
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_226
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_227
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_229
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_231
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_232
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_233
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_234
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_235
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_236
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_237
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_238
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_239
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_241
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_242
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_243
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_244
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_245
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_246
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_247
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_249
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_250
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_251
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_252
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_253
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_254
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_mystery_dungeon_2__all_items_by_phyromatical-d7kbj5d_255
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
